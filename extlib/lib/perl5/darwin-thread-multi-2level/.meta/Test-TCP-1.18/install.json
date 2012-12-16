@@ -1,0 +1,1 @@
+{"provides":{"Test::TCP::CheckPort":{"file":"Test/TCP/CheckPort.pm"},"Test::TCP":{"version":"1.18","file":"Test/TCP.pm"}},"target":"Test::TCP","version":"1.18","name":"Test::TCP","dist":"Test-TCP-1.18","pathname":"T/TO/TOKUHIROM/Test-TCP-1.18.tar.gz"}

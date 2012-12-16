@@ -1,0 +1,1 @@
+{"provides":{"Mac::FSEvents":{"version":"0.09","file":"Mac/FSEvents.pm"},"Mac::FSEvents::Event":{"file":"Mac/FSEvents/Event.pm"}},"target":"Mac::FSEvents","version":"0.09","name":"Mac::FSEvents","dist":"Mac-FSEvents-0.09","pathname":"R/RH/RHOELZ/Mac-FSEvents-0.09.tar.gz"}
